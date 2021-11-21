@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\CheckRecorderWithAllDependencies","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\extract-2021-11-12.csv","Automation Anywhere\\Bots\\Scanned1","Automation Anywhere\\Bots\\RecorderForm"]}
+{"path":"Automation Anywhere\\Bots\\CheckRecorderWithAllDependencies","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Scanned1","Automation Anywhere\\Bots\\RecorderForm","Automation Anywhere\\Bots\\extract-2021-11-12.csv"]}
